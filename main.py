@@ -9,6 +9,8 @@ byte-identical output.
 import os
 from pathlib import Path
 
+# The twist lands on the last word: "relaxing" itself is overdue, so the
+# reminder meant to help has quietly turned rest into another late task.
 JOKE = (
     "My calendar just reminded me to relax, "
     "and now relaxing is three weeks overdue."
